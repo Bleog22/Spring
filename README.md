@@ -1,2 +1,2 @@
-#Gitting some practice
-##Bryan Galaviz
+# Gitting some practice
+## Bryan Galaviz
